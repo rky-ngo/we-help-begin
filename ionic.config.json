@@ -1,5 +1,7 @@
 {
   "name": "we-help",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "ionic-angular"
 }
